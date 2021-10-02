@@ -1,5 +1,5 @@
 # nuxt-typescript-tailwindcss-template
-
+-
 ## Build Setup
 
 ```bash
